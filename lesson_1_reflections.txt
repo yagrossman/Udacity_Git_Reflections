@@ -1,1 +1,2 @@
 This is one of my reflections since i lost my old reflections somwhere
+add a change to make commit work
