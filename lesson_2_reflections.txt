@@ -1,0 +1,3 @@
+What happens when you initialize a repository? 
+Why do you need to do it?
+it creates a special .git file to hold all the repository information, version-control data etc.
