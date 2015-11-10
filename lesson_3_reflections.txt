@@ -11,3 +11,8 @@ branches allows you to test new feature or bugfixes without messing with the mas
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 so we know if that remote has been updated online and at what point it diverged from what we know locally.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+using either a cloud storage provider, such as, onedrive or dropbox
+it would be easier for text file revisions but for complicated code it would be difficult.
+
