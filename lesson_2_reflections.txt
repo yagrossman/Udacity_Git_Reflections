@@ -16,3 +16,8 @@ Make you visually aware of how many branches there are and at what point they br
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 We get one master branch with the commit of both braches, to show that we can reach all the previous commits from both branches within the master branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: allows for automatic commiting of changes in files etc.
+Cons: cant figure out some commits correctly
+
