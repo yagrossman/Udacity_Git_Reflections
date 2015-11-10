@@ -14,3 +14,5 @@ trying experimental features, additional languages, diff dev groups working towa
 How do the diagrams help you visualize the branch structure?
 Make you visually aware of how many branches there are and at what point they branched off.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We get one master branch with the commit of both braches, to show that we can reach all the previous commits from both branches within the master branch.
