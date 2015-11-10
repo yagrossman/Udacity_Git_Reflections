@@ -10,3 +10,7 @@ only place the file(s) with a logical change in the staging area before you comm
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 trying experimental features, additional languages, diff dev groups working towards a future product but working on seperate peices of the bigger puzzle. Branches allows for all of this and more!!!
+
+How do the diagrams help you visualize the branch structure?
+Make you visually aware of how many branches there are and at what point they branched off.
+
